@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="VODClient.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VODClientDoc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VODClientView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgLogin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinMagicLib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="scbarg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sizecbar.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientSocket.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpcdrom.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpcdromcollection.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpclosedcaption.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpcontrols.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpdvd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmperror.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmperroritem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpmedia.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpmediacollection.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpnetwork.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpplayer4.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpplayerapplication.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpplaylist.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpplaylistarray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpplaylistcollection.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpsettings.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="wmpstringcollection.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="VODClient.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="VODClientDoc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="VODClientView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgLogin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="scbarg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sizecbar.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientSocket.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpcdrom.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpcdromcollection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpclosedcaption.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpcontrols.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpdvd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmperror.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmperroritem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpmedia.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpmediacollection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpnetwork.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpplayer4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpplayerapplication.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpplaylist.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpplaylistarray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpplaylistcollection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpsettings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wmpstringcollection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="VODClient.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\VODClient.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\VODClientDoc.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\VODClient.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VODServer", "VODServer\VODServer.vcxproj", "{A6FDDE2E-53C3-47FB-BC9E-9B1AC1E2A296}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VODClient", "VODClient\VODClient.vcxproj", "{99B0E700-684D-46A5-AF56-F16B5B22E7AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6FDDE2E-53C3-47FB-BC9E-9B1AC1E2A296}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A6FDDE2E-53C3-47FB-BC9E-9B1AC1E2A296}.Debug|Win32.Build.0 = Debug|Win32
+		{A6FDDE2E-53C3-47FB-BC9E-9B1AC1E2A296}.Release|Win32.ActiveCfg = Release|Win32
+		{A6FDDE2E-53C3-47FB-BC9E-9B1AC1E2A296}.Release|Win32.Build.0 = Release|Win32
+		{99B0E700-684D-46A5-AF56-F16B5B22E7AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{99B0E700-684D-46A5-AF56-F16B5B22E7AB}.Debug|Win32.Build.0 = Debug|Win32
+		{99B0E700-684D-46A5-AF56-F16B5B22E7AB}.Release|Win32.ActiveCfg = Release|Win32
+		{99B0E700-684D-46A5-AF56-F16B5B22E7AB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
